@@ -1,16 +1,17 @@
-## Hi there 👋
+# lowpsyclon
 
-<!--
-**lowpsyclon/lowpsyclon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i don't know what i'm doing, just learning
 
-Here are some ideas to get you started:
+## stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- roblox
+- linux
+- javascript
+- studying web development
+
+## contact
+
+- telegram: @lowpsyclon
+- discord: lowpsyclon
+
+brazil 🇧🇷
